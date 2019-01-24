@@ -4,7 +4,7 @@ plugins {
 }
 
 application {
-    mainClassName = 'com.heatheryou.echoserver.EchoServer'
+    mainClassName = 'com.heatheryou.echoserver.App'
 }
 
 version '1.0-SNAPSHOT'
